@@ -1,9 +1,10 @@
-import Filtro from './components/Filtro'
+import Doze from './components/Doze'
+
 function App() {
   
   return (
     <>
-      <Filtro />
+      <Doze />
     </>
   );
 }
